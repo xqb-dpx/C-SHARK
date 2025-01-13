@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSHARK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20db0969b29a3a323fb17af61040a8b7b52b048f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+701c0928c5efb53ca1717beae6cebbd8d9b56f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSHARK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSHARK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

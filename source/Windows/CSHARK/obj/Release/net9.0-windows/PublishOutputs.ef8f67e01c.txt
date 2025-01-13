@@ -1,0 +1,6 @@
+D:\Git\C-SHARK\source\Windows\CSHARK\bin\Release\net9.0-windows\app.publish\CSHARK.exe
+D:\Git\C-SHARK\source\Windows\CSHARK\bin\Release\net9.0-windows\app.publish\CSHARK.dll
+D:\Git\C-SHARK\source\Windows\CSHARK\bin\Release\net9.0-windows\app.publish\CSHARK.deps.json
+D:\Git\C-SHARK\source\Windows\CSHARK\bin\Release\net9.0-windows\app.publish\CSHARK.runtimeconfig.json
+D:\Git\C-SHARK\source\Windows\CSHARK\bin\Release\net9.0-windows\app.publish\CSHARK.pdb
+D:\Git\C-SHARK\source\Windows\CSHARK\bin\Release\net9.0-windows\app.publish\Newtonsoft.Json.dll
