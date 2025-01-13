@@ -32,7 +32,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-### [MIT License](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE)
+### [MIT License](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
 `Copyright (c) 2025 C-SHARK Quasar Company`
 
