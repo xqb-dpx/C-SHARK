@@ -60,7 +60,7 @@ SOFTWARE.
 
 First off, thanks for taking the time to contribute! 🎉
 
-**How Can I Contribute? **
+**How Can I Contribute?**
 
 + Reporting Bugs
   
