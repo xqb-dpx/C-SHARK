@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjn0krBfLr8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Microsoft\\Documents\\Desktop\\C-SHARK\\C-SHARK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Microsoft\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Microsoft\\.nuget\\packages\\system.codedom\\9.0.1\\system.codedom.9.0.1.nupkg.sha512",
+    "C:\\Users\\Microsoft\\.nuget\\packages\\system.management\\9.0.1\\system.management.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
