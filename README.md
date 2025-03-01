@@ -20,7 +20,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 > Version List
 
-[✓] [`v2025.01.01`](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
+[⊙] [`v2025.01.01`](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
 
 [●]
 
