@@ -18,7 +18,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ### *Version list*
 
-- [x] [`v2025.01.01`](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
+- [x] [**`v2025.01.01`**](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
 
 - [ ] ~~v2024.12.01~~
 
@@ -26,7 +26,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 - {[**`Microsoft .NET Framework`**](https://dotnet.microsoft.com/en-us/download/dotnet-framework)}
 
-- {[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download)}
+- {[**`Microsoft .NET Core`**](https://dotnet.microsoft.com/en-us/download)}
 
 ---
 
