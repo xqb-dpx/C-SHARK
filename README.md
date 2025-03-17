@@ -32,6 +32,8 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ### MIT License [^1]
 
+[^1]: [License File](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
+
 `Copyright (c) 2025 C-SHARK`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -51,8 +53,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[^1]: [License File](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
 ---
 
