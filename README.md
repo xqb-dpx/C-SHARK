@@ -29,7 +29,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-##### ***MIT License*** [^1]
+### ***MIT License*** [^1]
 
 [^1]: [***`License File`***](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
