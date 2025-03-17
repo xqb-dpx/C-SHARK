@@ -24,9 +24,9 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ### *Prerequisites*
 
-- {[**`Microsoft .NET Framework`**](https://dotnet.microsoft.com/en-us/download/dotnet-framework)}
+1. {[**`Microsoft .NET Framework`**](https://dotnet.microsoft.com/en-us/download/dotnet-framework)}
 
-- {[**`Microsoft .NET Core`**](https://dotnet.microsoft.com/en-us/download)}
+2. {[**`Microsoft .NET Core`**](https://dotnet.microsoft.com/en-us/download)}
 
 ---
 
