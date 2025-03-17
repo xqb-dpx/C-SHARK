@@ -1,6 +1,6 @@
 # C-SHARK
 
-<img src="https://github.com/xqb-dpx/C-SHARK/blob/main/img/shark.png" style="width: 64px; height: 64px; background-color: yellow;"/>
+<img src="https://github.com/xqb-dpx/C-SHARK/blob/main/img/shark.png" style="width: 64px; height: 64px;"/>
 
 
 ~ At first, this project was started with the name of Embargo Breaker.
@@ -16,23 +16,21 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-### Resources
+### *Version list*
 
-> Version List
+- [ ] [`v2025.01.01`](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
 
-[⊙] [`v2025.01.01`](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
+- [x] ~~v2024.12.01~~
 
-[●]
+### *Prerequisites*
 
-> Prerequisites
+- {[`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)}
 
-[`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
-
-[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download)
+- {[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download)}
 
 ---
 
-### [MIT License](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
+### MIT License [^1]
 
 `Copyright (c) 2025 C-SHARK`
 
@@ -53,6 +51,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+[^1] [License File](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
 ---
 
