@@ -1,5 +1,7 @@
 <img src="https://github.com/xqb-dpx/C-SHARK/blob/main/img/shark.png" style="width: 64px; height: 64px; background-color: #F0E68C;"/> ***C-SHARK***
 
+## About {#info}
+
 ~ At first, this project was started with the name of Embargo Breaker.
 
 During a rewrite, it was decided to change the name of the program to Shield, and now you have a completely advanced
@@ -13,13 +15,13 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-### *Version list*
+### *Version list* {#versions}
 
 - [x] [**`v2025.01.01`**](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) {Pre-Release}
 
 - [ ] ~~v2024.12.01~~
 
-### *Prerequisites*
+### *Prerequisites* {#pre-install}
 
 1. {[**`Microsoft .NET Framework`**](https://dotnet.microsoft.com/en-us/download/dotnet-framework)}
 
@@ -27,7 +29,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-### MIT License [^1]
+### MIT License [^1] {#licence}
 
 [^1]: [***`License File`***](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
@@ -53,7 +55,7 @@ SOFTWARE.**
 
 ---
 
-### Contribute [^2]
+### Contribute [^2] {#help-us}
 
 [^2]: [***`Full Hint File`***](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
 
