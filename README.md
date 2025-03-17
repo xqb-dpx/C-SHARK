@@ -2,7 +2,7 @@
 
 ### ***About***
 
-==At first, this project was started with the name of Embargo Breaker.==
+== At first, this project was started with the name of Embargo Breaker. ==
 
 During a rewrite, it was decided to change the name of the program to Shield, and now you have a completely advanced
 version of C-Shark.
