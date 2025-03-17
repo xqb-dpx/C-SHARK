@@ -1,6 +1,6 @@
 # C-SHARK
 
-<span style="width: 100px; height: 100px; backgroung-color: yellow;"></span>
+<span style="width: 100px; height: 100px; backgroung-color: yellow;">.</span>
 
 
 ~ At first, this project was started with the name of Embargo Breaker.
