@@ -24,16 +24,16 @@ With C-Shark, internet sanctions in Iran (at least) are bypassed.
 ### **Prerequisites**
 
 1. {**`Microsoft .NET Framework`**} [^1]
-[^1]: (https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+[^1]: [*`Microsoft .NET Framework Official Website`*](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
 2. {**`Microsoft .NET Core`**} [^2]
-[^2]: (https://dotnet.microsoft.com/en-us/download)}
+[^2]: [*`Microsoft .NET Core Official Website`*](https://dotnet.microsoft.com/en-us/download)}
 
 ---
 
 ### **MIT License** [^3]
 
-[^3]: [***`License File`***](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
+[^3]: [*`License File`*](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
 `Copyright (c) 2025 C-SHARK`
 
@@ -59,7 +59,7 @@ SOFTWARE.**
 
 ### **Contribute** [^4]
 
-[^4]: [***`Full Hint File`***](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
+[^4]: [*`Full Contribute Hint`*](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
 
 > Fork the repository.
 >
