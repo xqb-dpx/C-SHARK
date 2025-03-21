@@ -23,10 +23,10 @@ With C-Shark, internet sanctions in Iran (at least) are bypassed.
 
 ### **Prerequisites**
 
-1. {[**`Microsoft .NET Framework`**]} [^1]
+1. {**`Microsoft .NET Framework`**} [^1]
 [^1]: (https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
-2. {[**`Microsoft .NET Core`**]} [^2]
+2. {**`Microsoft .NET Core`**} [^2]
 [^2]: (https://dotnet.microsoft.com/en-us/download)}
 
 ---
