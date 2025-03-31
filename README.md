@@ -22,7 +22,7 @@ version of C-Shark.
 - [|]
 - [ ] ~~`v2024.12.01`~~
 - [|]
-- [●] `Start`
+- [●] ---{ `Start`
 
 ### **Prerequisites**
 
