@@ -19,10 +19,10 @@ version of C-Shark.
 
 - [x] ---{ [**`v2025.01.01`**](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) [Pre-Release] }
 
-|
+
 - [ ] ---{ ~~`v2024.12.01`~~ }
 
-|
+
 - [ ] ---{ `Start` }
 
 ### **Prerequisites**
