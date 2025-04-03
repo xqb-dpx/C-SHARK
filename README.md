@@ -31,9 +31,9 @@ version of C-Shark.
 
 ---
 
-### **MIT License** [^2]
+### **MIT License** [^1]
 
-[^2]: [*`License File`*](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
+[^1]: [*`License File`*](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
 `Copyright (c) 2025 C-SHARK`
 
@@ -57,9 +57,9 @@ SOFTWARE.**
 
 ---
 
-### **Contribute** [^3]
+### **Contribute** [^2]
 
-[^3]: [*`Full Contribute Hint`*](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
+[^2]: [*`Full Contribute Hint`*](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
 
 > Fork the repository.
 >
