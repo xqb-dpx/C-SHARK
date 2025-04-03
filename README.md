@@ -27,8 +27,7 @@ version of C-Shark.
 
 ### **Prerequisites**
 
-{**`Microsoft .NET Core`**} [^1]
-[^1]: [*`Microsoft .NET Core Official Website`*](https://dotnet.microsoft.com/en-us/download)}
+[**`Microsoft .NET Core`**](https://dotnet.microsoft.com/en-us/download)
 
 ---
 
