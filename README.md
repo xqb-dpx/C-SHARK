@@ -27,17 +27,16 @@ version of C-Shark.
 
 ### **Prerequisites**
 
-1. {**`Microsoft .NET Framework`**} [^1]
-[^1]: [*`Microsoft .NET Framework Official Website`*](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+1. {**`Microsoft .NET Framework`**}
 
-2. {**`Microsoft .NET Core`**} [^2]
-[^2]: [*`Microsoft .NET Core Official Website`*](https://dotnet.microsoft.com/en-us/download)}
+2. {**`Microsoft .NET Core`**} [^1]
+[^1]: [*`Microsoft .NET Core Official Website`*](https://dotnet.microsoft.com/en-us/download)}
 
 ---
 
-### **MIT License** [^3]
+### **MIT License** [^2]
 
-[^3]: [*`License File`*](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
+[^2]: [*`License File`*](https://github.com/xqb-dpx/C-SHARK/blob/main/LICENSE.md)
 
 `Copyright (c) 2025 C-SHARK`
 
@@ -61,9 +60,9 @@ SOFTWARE.**
 
 ---
 
-### **Contribute** [^4]
+### **Contribute** [^3]
 
-[^4]: [*`Full Contribute Hint`*](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
+[^3]: [*`Full Contribute Hint`*](https://github.com/xqb-dpx/C-SHARK/blob/main/CONTRIBUTING.md)
 
 > Fork the repository.
 >
