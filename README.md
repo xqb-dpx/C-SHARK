@@ -22,7 +22,11 @@ version of C-Shark.
 
 - [ ] ~~v2024.12.01~~
 
+
+
 - ---{`C-SHARK Project Started`
+
+
 
 - [ ] Start [Dec 2024]
 
@@ -73,6 +77,3 @@ SOFTWARE.**
 > Push to the branch (`git push origin feature/YourFeatureName`).
 > 
 > Open a Pull Request.
-
-
-- ---{ hi
