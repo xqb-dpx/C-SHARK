@@ -21,7 +21,8 @@ version of C-Shark.
     <li>[ ] <b>[Future] Next Version ~ In Progress</b></li>
     <li>[x] <b>[Jan 2025] <a href="https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01">v2025.01.01</a> ~ Pre-Release</b></li>
     <li>[x] <b>[Dec 2024] <del>v2024.12.01 ~ Pre-Release</del></b></li>
-     <li>[x] <b>[Dec 2024] Start</b></li>
+    <li>C-SHARK Project Started</li>
+    <li>[x] <b>[Dec 2024] Start</b></li>
 </ul>
 
 ### **Prerequisites**
