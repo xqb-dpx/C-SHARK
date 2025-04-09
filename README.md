@@ -17,12 +17,12 @@ version of C-Shark.
 
 ### **Version list**
 
-- [x] [**`v2025.01.01`**](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) [Pre-Release]
+- [x] [**v2025.01.01**](https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01) ~ Pre-Release ~
 
 
-- [ ] ~~`v2024.12.01`~~
+- [ ] ~~v2024.12.01~~
 
-- ---{ C-SHARK Project Started }
+- ---{`C-SHARK Project Started`
 
 - [ ] Start [Dec 2024]
 
