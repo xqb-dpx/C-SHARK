@@ -24,7 +24,7 @@ version of C-Shark.
 
 - ---{ C-SHARK Project Started
 
-- [ ] **`Start`** [Dec 2024]
+- [ ] **`Start` [Dec 2024]**
 
 ### **Prerequisites**
 
