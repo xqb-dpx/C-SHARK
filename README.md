@@ -18,7 +18,7 @@ version of C-Shark.
 ### **Version list**
 
 <ul>
-    <li><b><a src="https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01">v2025.01.01</a>~ Pre-Release ~</b></li>
+    <li><a src="https://github.com/xqb-dpx/C-SHARK/releases/tag/v2025.01.01">v2025.01.01</a>~ Pre-Release ~</li>
     
 </ul>
 
